@@ -1,4 +1,4 @@
-Youtube Video Submission: https://youtu.be/VbF00dLuqNc
+Youtube Video Submission: https://youtu.be/w--gmgTV7Sg
 
 Building an RSSI-based localisation based bristle bot swarm, for ELEC6216 Biologically Inspired Robotics. Bristle bots are based on a Seeed Studio Xiao nRF82540.
 
